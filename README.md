@@ -4,7 +4,7 @@ A script to access any device's webcam (Windows, MacBook, Android, iPhone) by sh
 
 ## Instagram: https://instagram.com/programemerz
 
-![](image.png)
+![](images.png)
 
 ### Features:
 
